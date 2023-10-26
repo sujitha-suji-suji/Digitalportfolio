@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-property {
+    background-color: #191a1d;
+    height: 80vh;
+}
+
+.movingtext {
+    color: #34f533;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.profile-image {
+    width: 250px;
+    margin-bottom: 10px;
+    border-radius: 100%;
+}
+
+.span-word {
+    color: #4b6cc1;
+}
+
+.profile-para {
+    color: #9aa5b1;
+    font-size: 28px;
+}
+
+.about-me-img {
+    width: 80%;
+    margin: 18px;
+}
+
+.skill-image {
+    width: 60%;
+}
+
+.skill-back-property {
+    background-color: #9aa5b1;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.project-card {
+    background-color: #323f4b;
+    margin: 12px;
+    border-radius: 10px;
+}
+
+.portfolio-background-section {
+    background-color: #9aa5b1;
+}
+
+.service-card {
+    padding: 12px;
+    margin: 10px;
+    border-radius: 6px;
+}
+
+.service-img {
+    height: 40px;
+    width: 40px;
+}
+
+.work-done {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.testimonials-section {
+    padding: 40px;
+    background-color: #1f2933;
+}
+
+.testimonials-card {
+    background-color: #323f4b;
+    padding: 20px;
+    color: #9aa5b1;
+}
+
+.testimonials-card-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.contact-us-section {
+    background-color: #0d2436;
+}
+
+.contact-us-img {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+}
+
+.contact-us-heading {
+    color: #cced00;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.contact-us-details {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.footer-icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.creater-section {
+    background-color: #001c32;
+    color: #5a7184;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
